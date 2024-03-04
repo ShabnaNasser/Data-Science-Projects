@@ -8,4 +8,5 @@
 - **Loan Approval Prediction EDA:** Perform exploratory data analysis for predicting loan approvals.
 - **Logistic Regression Advanced Case Study:** Apply logistic regression models for binary classification tasks.
 - **Random Forest Covid Case Study:** Investigate the application of random forest algorithms for analyzing COVID-19 data.
+
 These projects demonstrate proficiency in machine learning, statistical analysis, and data visualization techniques, providing insights and solutions to real-world problems.
